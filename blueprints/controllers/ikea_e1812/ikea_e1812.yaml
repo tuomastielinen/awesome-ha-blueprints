@@ -1,10 +1,10 @@
 # Blueprint metadata
 blueprint:
-  name: Controller - IKEA E1812 TRÅDFRI Shortcut button
+  name: Controller - IKEA E1812 TRADFRI Shortcut button
   description: |
-    # Controller - IKEA E1812 TRÅDFRI Shortcut button
+    # Controller - IKEA E1812 TRADFRI Shortcut button
 
-    Controller automation for executing any kind of action triggered by the provided IKEA E1812 TRÅDFRI Shortcut button.
+    Controller automation for executing any kind of action triggered by the provided IKEA E1812 TRADFRI Shortcut button.
     Allows to optionally loop an action on a button long press.
     The blueprint handles double button press events natively as it is supported by the controller device itself.
     Supports Zigbee2MQTT, ZHA, deCONZ.
@@ -15,11 +15,11 @@ blueprint:
 
     ## More Info
 
-    ℹ️ Version 2025.04.12
-    📝 [Changelog](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812/#changelog)
-    📕 Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812).
+     Version 2025.04.12
+     [Changelog](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812/#changelog)
+     Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e1812).
 
-    🚀 This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**. Please consider **[leaving a star on GitHub](https://github.com/EPMatt/awesome-ha-blueprints)**! 🌟
+     This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**. Please consider **[leaving a star on GitHub](https://github.com/EPMatt/awesome-ha-blueprints)**! 
 
   source_url: https://github.com/EPMatt/awesome-ha-blueprints/blob/main/blueprints/controllers/ikea_e1812/ikea_e1812.yaml
   domain: automation

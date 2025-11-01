@@ -8,11 +8,11 @@ blueprint:
     Supports full notification customization, notification groups, auto-dismissal when the add-on is updated and button for starting the update directly from your notification tray,
     with optional notification after the update completed succesfully.
 
-    📕 Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/automation/addon_update_notification).
+     Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/automation/addon_update_notification).
 
-    🚀 This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**.
+     This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**.
 
-    ℹ️ Version 2021.10.26
+     Version 2021.10.26
   source_url: https://github.com/EPMatt/awesome-ha-blueprints/blob/main/blueprints/automation/addon_update_notification/addon_update_notification.yaml
   domain: automation
   input:

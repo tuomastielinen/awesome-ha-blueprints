@@ -21,11 +21,11 @@ blueprint:
 
     ## More Info
 
-    ℹ️ Version 2025.03.28
-    📝 [Changelog](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e2123/#changelog)
-    📕 Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e2123).
+     Version 2025.03.28
+     [Changelog](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e2123/#changelog)
+     Full documentation regarding this blueprint is available [here](https://epmatt.github.io/awesome-ha-blueprints/docs/blueprints/controllers/ikea_e2123).
 
-    🚀 This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**. Please consider **[leaving a star on GitHub](https://github.com/EPMatt/awesome-ha-blueprints)**! 🌟
+     This blueprint is part of the **[Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints) project**. Please consider **[leaving a star on GitHub](https://github.com/EPMatt/awesome-ha-blueprints)**! 
 
   source_url: https://github.com/EPMatt/awesome-ha-blueprints/blob/main/blueprints/controllers/ikea_e2123/ikea_e2123.yaml
   domain: automation
@@ -157,13 +157,13 @@ blueprint:
       input:
         button_dots1_longdouble_enabled:
           name: (Optional) Dots1 button Long/Double press - enable/disable
-          description: Enable the Dots1 button “Long Press” and “Double Press” actions. Disable to remove delay from “Single Press” actions.
+          description: Enable the Dots1 button "Long Press" and "Double Press" actions. Disable to remove delay from "Single Press" actions.
           default: true
           selector:
             boolean:
         button_dots2_longdouble_enabled:
           name: (Optional) Dots2 button Long/Double press - enable/disable
-          description: Enable the Dots2 button “Long Press” and “Double Press” actions. Disable to remove delay from “Single Press” actions.
+          description: Enable the Dots2 button "Long Press" and "Double Press" actions. Disable to remove delay from "Single Press" actions.
           default: true
           selector:
             boolean:
